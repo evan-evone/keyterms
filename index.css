@@ -1,0 +1,36 @@
+/* Main Page Header */
+h1 {
+  font-family: 'Copperplate', 'Optima', sans-serif;
+  font-size: 48px;
+}
+
+/* Main Card Header */
+h3 {
+  font-family: 'Copperplate', 'Optima', sans-serif;
+  font-size: 30px;
+}
+
+
+.body {
+  font-family: 'Optima', sans-serif;
+  text-align: center;
+
+  margin: auto;
+  min-width: 1000px;
+  width: 80%;
+
+  /* test: border: 1px dashed #b3b3b3; */
+}
+
+.card {
+  min-width: 400px;
+  max-width: 600px;
+  min-height: 300px;
+  max-height: 450px;
+
+  border: 1px solid #b3b3b3;
+  border-radius: 5px;
+  box-shadow: 5px 6px 10px 0px #999;
+
+  padding: 2%;
+}
