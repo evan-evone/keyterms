@@ -16,4 +16,6 @@ you have and haven't written out, and will greatly ease the difficult process of
 your terms. Additionally, `keyterms` can serve another webpage made from the same document
 that allows you to study your key terms in much the same way that Quizlet does.
 
+![A Screenshot of KeyTerms in Action](/Pics/20-October-2018_Overview.png)
+
 **Important Note: `keyterms` is nowhere NEAR functional yet. Patience is kindly requested.**
