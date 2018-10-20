@@ -24,5 +24,14 @@
     "express": "^4.16.4",
     "path": "^0.12.7",
     "serve-favicon": "^2.5.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-evone/keyterms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evan-evone/keyterms/issues"
+  },
+  "homepage": "https://github.com/evan-evone/keyterms#readme"
 }
